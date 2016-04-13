@@ -1,3 +1,3 @@
 # peep-swift
 
-Swift 基本语法入门。
+Swift 各种学习、各种构造。
